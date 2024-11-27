@@ -152,4 +152,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or feedback, feel free to reach out via email: [sk2004k@example.com](mailto:srishtikushwaha70@gmail.com).
+For any questions or feedback, feel free to reach out via email: [srishtikushwaha70@gmail.com](mailto:srishtikushwaha70@gmail.com).
