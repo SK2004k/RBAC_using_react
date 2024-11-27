@@ -26,7 +26,7 @@ This project is a Role-Based Access Control (RBAC) Admin Dashboard built with Re
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/rbac-admin-dashboard.git
+    git clone https://github.com/SK2004k/RBAC_using_react.git
     cd rbac-admin-dashboard
     ```
 
