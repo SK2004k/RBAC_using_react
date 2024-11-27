@@ -1,0 +1,55 @@
+/* App-wide styles */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.App {
+  display: flex;
+}
+
+.App-header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  background: #fff;
+  min-height: 100vh;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  font-size: 16px;
+  color: #fff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
